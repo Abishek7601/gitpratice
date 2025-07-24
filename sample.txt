@@ -1,0 +1,2 @@
+CREATE TABLE employees(employee_id int PRIMARY KEY ,name VARCHAR(30) , department_id int , salary int)
+INSERT INTO employees VALUES(101,"bob",1,70000),(102,"ben",1,75000),(103,"dani",2,60000),(104,"kelvin",3,80000)
